@@ -1,0 +1,6 @@
+
+运行服务器命令：npm start 或 npm run start
+
+上线：npm run build
+
+静态打包命令：npm run packer
